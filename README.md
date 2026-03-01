@@ -1,4 +1,3 @@
-git worktree remove C:/Users/dacks/PycharmProjects/Façade/.claude/worktrees/compassionate-mendel
 # Moniteur Système — Pattern Façade
 
 Application de monitoring système développée en Python avec PyQt6, illustrant l'implémentation du **Design Pattern Façade**.
